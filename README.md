@@ -9,7 +9,7 @@ sudo ./enable-ssh.sh linux-image.zip
 ```
 
 ## Notes
-- XZ and zip files are supported.
+- XZ and ZIP file compression formats are supported.
 - The exported zip file is exported to the current working directory.
 - The exported zip file adds a -1 to the end of the file name.
 - The COMPRESSION_PRESET variable can be adjusted for the [xz compression](https://linux.die.net/man/1/xz).
