@@ -1,7 +1,7 @@
 # enable-ssh
 Enable ssh in a linux image
 
-This script takes a zipped headless image file and adds [an ssh file to the boot partition](https://www.raspberrypi.org/documentation/remote-access/ssh/) to enable SSH on first boot.
+This script takes a compressed headless image file and adds [an ssh file to the boot partition](https://www.raspberrypi.org/documentation/remote-access/ssh/) to enable SSH on first boot.
 
 ## Usage
 ```
